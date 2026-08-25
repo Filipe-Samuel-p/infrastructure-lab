@@ -1,0 +1,13 @@
+*.out
+
+.DS_Store
+.DS_Store?
+
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+
+*.log
