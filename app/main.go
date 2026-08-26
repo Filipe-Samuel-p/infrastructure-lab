@@ -1,8 +1,9 @@
 package main
 
 import (
-	"infra-lab/user"
 	"net/http"
+
+	"github.com/Filipe-Samuel-p/infrastructure-lab/user"
 )
 
 func main() {
